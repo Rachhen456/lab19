@@ -35,7 +35,7 @@ const AddToWishlist = () => {
 										<li><Link to="addtowishlist">AddWishlist</Link></li>
 									</ul>
 								</li>
-								<li><Link to="/women">Women</Link></li>
+								{/* <li><Link to="/women">Women</Link></li> */}
 								<li><Link to="/about">About</Link></li>
 								<li><Link to="/contact">Contact</Link></li>
 								<li class="cart"><Link to="/cart"><i class="icon-shopping-cart"></i> Cart [0]</Link></li>

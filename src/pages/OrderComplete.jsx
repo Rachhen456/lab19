@@ -35,7 +35,7 @@ const OrderComplete = () => {
 										<li><Link to="/addtowishlist">AddWishlist</Link></li>
 									</ul>
 								</li>
-								<li><Link to="/women">Women</Link></li>
+								{/* <li><Link to="/women">Women</Link></li> */}
 								<li><Link to="/blog">Blog</Link></li>
 								<li><Link to="/about">About</Link></li>
 								<li><Link to="/contact">Contact</Link></li>
